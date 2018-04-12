@@ -23,6 +23,6 @@ else if (string == string.toUpperCase){
   return "YES INDEED!"
 }
 else if (string === "I love you"){
-  
+  return "I love you, too."
 }
 }
