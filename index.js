@@ -15,3 +15,8 @@ function logWhisper(string) {
 }
 
 
+function shout(string) {
+  if (string === ){
+  return "YES INDEED!"
+}
+}
